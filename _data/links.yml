@@ -325,9 +325,29 @@
       style: basic
       url: https://www.bupt.edu.cn/
 
-    # - name: 本科教务系统
-    #   style: basic
-    #   url: https://jwgl.bupt.edu.cn/jsxsd/
+    - name: 寰宇新聞
+      style: basic
+      url: https://www.youtube.com/watch?v=B7Zp3d6xXWw
+
+    - name: TVBS選新聞
+      style: basic
+      url: https://www.youtube.com/watch?v=hP6_jfCFxyQ
+
+    - name: 東森新聞
+      style: basic
+      url: https://www.youtube.com/watch?v=B7Zp3d6xXWw
+
+    - name: 中天新聞
+      style: basic
+      url: https://www.youtube.com/watch?v=_QbRXRnHMVY
+
+    - name: 聞大白話 TVBS 56台
+      style: blue
+      url: https://www.youtube.com/watch?v=ybSl1x9ufis
+
+     - name: 鳳凰衛視
+       style: basic
+       url: https://www.youtube.com/watch?v=7dhG7J8trVY
 
   - name: 校园助手
     links:
