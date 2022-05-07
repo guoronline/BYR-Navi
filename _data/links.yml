@@ -319,22 +319,80 @@
       url: https://douyu.com/
 
 - categories:
-  - name: 北邮校园
+  - name: 中文新闻
     links:
-    - name: 北邮官网
-      style: basic
-      url: https://www.bupt.edu.cn/
-
     - name: 寰宇新聞
       style: basic
       url: https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
-  - name: 论坛相关
-    links:
-    - name: 北邮人论坛
-      style: teal
-      url: http://bbs.byr.cn/
-
-    - name: 游客版论坛
+    - name: TVBS選新聞
       style: basic
-      url: http://bbs.cloud.icybee.cn/
+      url: https://www.youtube.com/watch?v=hP6_jfCFxyQ
+
+    - name: 東森新聞
+      style: basic
+      url: https://www.youtube.com/watch?v=B7Zp3d6xXWw
+
+    - name: 中天新聞
+      style: basic
+      url: https://www.youtube.com/watch?v=_QbRXRnHMVY
+
+    - name: 聞大白話 TVBS 56台
+      style: blue
+      url: https://www.youtube.com/watch?v=ybSl1x9ufis
+      
+    - name: 非官方大哥
+      style: basic
+      url: https://www.youtube.com/watch?v=7dhG7J8trVY
+
+      
+  - name: 英文新闻
+    links:
+    - name: Sky News
+      style: basic
+      url: https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+    - name: ABC News
+      style: basic
+      url: https://www.youtube.com/watch?v=w_Ma8oQLmSM
+
+    - name: DW News
+      style: basic
+      url: https://www.youtube.com/watch?v=GE_SfNVNyqk
+
+    - name: 半岛 News
+      style: basic
+      url: https://www.youtube.com/watch?v=F-POY4Q0QSI
+
+    - name: FRANCE 24
+      style: basic
+      url: https://www.youtube.com/watch?v=h3MuIUNCCzI
+
+    - name: WION
+      style: basic
+      url: https://www.youtube.com/watch?v=yjJ3Ygc0u2Q
+
+ 
+  - name: 全球直播
+    links:
+    - name: 观察者俱乐部
+      style: teal
+      url: https://www.youtube.com/channel/UCSkaixM5p8mYuBIdy2J0ZHw
+
+    - name: Teleport.camera
+      style: basic
+      url: https://www.youtube.com/channel/UCegzBUd6-PYoO_v7gjJgufg
+
+    - name: BIG JET TV
+      style: basic
+      url: https://www.youtube.com/channel/UCkQef3Fidr7tm3gNuXgGKPw
+
+    - name: earthTV
+      style: basic
+      url: https://www.youtube.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ
+
+    - name: 鏡新聞
+      style: basic
+      url: https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+
