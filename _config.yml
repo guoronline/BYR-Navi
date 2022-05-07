@@ -1,5 +1,5 @@
 repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+repository_url: https://github.com/guoronline/BYR-Navi
 
 #timezone: Asia/Shanghai
 #lang: zh_CN
@@ -12,9 +12,9 @@ keywords: 导航, VCFEM, Navi, Navigation
 url: https://
 established_at: "2022-05-01T00:00+08:00"
 
-author: iROCKBUNNY
+author: VCFEM
 author_url: https://irockbunny.com
-organization: TEELAB
+organization: VCFEM
 organization_url: https://teelab.net
 contact: contact[at]irockbunny[dot]com
 
