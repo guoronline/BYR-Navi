@@ -39,8 +39,8 @@ exclude:
 - vendor
 
 lsi: false
-safe: true
-source: [your repo's top level directory]
+#safe: true
+#source: [your repo's top level directory]
 incremental: false
 highlighter: rouge
 gist:
