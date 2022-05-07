@@ -1,8 +1,8 @@
 repository: BYR-Navi/BYR-Navi
 repository_url: https://github.com/BYR-Navi/BYR-Navi
 
-timezone: Asia/Shanghai
-lang: zh_CN
+#timezone: Asia/Shanghai
+#lang: zh_CN
 
 title: 导航 · VCFEM
 alias_en: VCFEM
