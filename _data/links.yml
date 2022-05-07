@@ -329,37 +329,6 @@
       style: basic
       url: https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
-    - name: TVBS選新聞
-      style: basic
-      url: https://www.youtube.com/watch?v=hP6_jfCFxyQ
-
-    - name: 東森新聞
-      style: basic
-      url: https://www.youtube.com/watch?v=B7Zp3d6xXWw
-
-    - name: 中天新聞
-      style: basic
-      url: https://www.youtube.com/watch?v=_QbRXRnHMVY
-
-    - name: 聞大白話 TVBS 56台
-      style: blue
-      url: https://www.youtube.com/watch?v=ybSl1x9ufis
-
-     - name: 鳳凰衛視
-       style: basic
-       url: https://www.youtube.com/watch?v=7dhG7J8trVY
-
-  - name: 校园助手
-    links:
-    - name: 空余教室查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
-
-    - name: 辅修专业
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
-
-
   - name: 论坛相关
     links:
     - name: 北邮人论坛
