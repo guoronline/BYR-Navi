@@ -1,5 +1,5 @@
-repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/guoronline/BYR-Navi
+repository: guoronline/VCFEM
+repository_url: https://github.com/guoronline/VCFEM
 
 #timezone: Asia/Shanghai
 #lang: zh_CN
@@ -9,7 +9,7 @@ alias_en: VCFEM
 alias_cn: 导航
 description: A Navigation Website for VCFEM
 keywords: 导航, VCFEM, Navi, Navigation
-url: https://guoronline.github.io/BYR-Navi/
+url: https://guoronline.github.io/VCFEM/
 established_at: "2022-05-01T00:00+08:00"
 
 author: VCFEM
@@ -20,8 +20,8 @@ contact: contact[at]irockbunny[dot]com
 
 image: /images/logo.png
 logo: /images/logo.png
-logo_dark: /images/logo-dark.png
-logo_white: /images/logo-white.png
+logo_dark: /images/vcfem.png
+logo_white: /images/vcfem.png
 
 plugins:
 - jekyll-seo-tag
