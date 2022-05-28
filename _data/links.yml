@@ -22,7 +22,7 @@
       url: https://www.youtube.com/watch?v=_QbRXRnHMVY
 
     - name: 聞大白話 TVBS 56台
-      style: blue
+      style: basic
       url: https://www.youtube.com/watch?v=ybSl1x9ufis
       
     - name: 凤凰卫视
@@ -60,11 +60,15 @@
       style: basic
       url: https://www.youtube.com/watch?v=yjJ3Ygc0u2Q
 
+    - name: RT
+      style: basic
+      url: https://www.rt.com/on-air/
+
  
   - name: 全球直播
     links:
     - name: 观察者俱乐部
-      style: teal
+      style: basic
       url: https://www.youtube.com/channel/UCSkaixM5p8mYuBIdy2J0ZHw
 
     - name: Teleport.camera
