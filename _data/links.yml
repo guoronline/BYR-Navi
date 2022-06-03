@@ -27,7 +27,11 @@
       
     - name: 凤凰卫视
       style: basic
-      url: https://www.youtube.com/watch?v=7dhG7J8trVY
+      url: https://www.youtube.com/watch?v=PNtdyKgGf3M
+      
+    - name: 凤凰中文
+      style: basic
+      url: https://www.youtube.com/watch?v=kk12tpAlGTI
 
       
   - name: 英文新闻
