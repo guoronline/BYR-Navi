@@ -1,133 +1,57 @@
-[![Build Status](https://app.travis-ci.com/BYR-Navi/BYR-Navi.svg)][travis-ci]
-[![Website](https://img.shields.io/website-up-down-green-red/https/byr-navi.com.svg)][website]
-[![License](https://img.shields.io/github/license/BYR-Navi/BYR-Navi.svg)][license]
-[![Last Commit](https://img.shields.io/github/last-commit/BYR-Navi/BYR-Navi.svg)][commit]
-[![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
+### 有限元相关
 
-# BYR-Navi
-A Light-Weight and Configurable Navigation [Website][website] Framework (for BYR)
+- ##### [多相材料模拟软件中单元和编号](FEM/多相材料模拟软件中单元和编号.md)
 
-## :triangular_ruler: Design Philosophy
-This project is a [Jekyll][jekyll]-powered website, which is built based on [Fomantic UI][fomantic] web framework, and deployed **previously** using [GitHub Pages][github-pages] (while currently running on a [Linode][linode] VPS).
+- ##### [多相材料模拟软件的输入文件](FEM/input_file.md)
 
-The whole project is designed and built with high flexibility of configuration and customization.
-You can either configure it by modifying the `_config.yml` file or customize it by replacing the content of the `*.yml` files in the `_data` folder with your own data.
 
-## :book: A Tiny Tutorial
-There is **no easy way for beginners** without essential background knowledge.
-To be efficient, the best way to understand this project is to start with the Jekyll&rsquo;s [docs][jekyll-doc] and Fomantic UI&rsquo;s [docs][fomantic-doc].
 
-Before you start, you should have some basic understanding of the following:
+### GPU server 操作
 
-- HTML
-- CSS
-- JavaScript
-- jQuery
-- YAML format
-- Liquid (Template Engine)
-- Ruby
-- UNIX/Linux Shell Script
+- ##### [Linux命令手册](GPU_server/Linux命令手册.md)
 
-### Quick Start
+- ##### [一些Linux基本命令](GPU_server/Linux_command.md)
 
-1. Install a full [Ruby development environment][jekyll-installation].
+- ##### [远程桌面登录](GPU_server/vcn_logon_server.md)
 
-2. Install Jekyll and [bundler][jekyll-ruby-101-bundler] [gems][jekyll-ruby-101-gems].
+- ##### [Linux系统下FORTRAN 和 C 的编译器](GPU_server/Fortran_C_compilers.md)
 
-```sh
-gem install jekyll bundler
-```
+- ##### [Linux系统软件的安装（图形界面）--曹秋锋](GPU_server/Linux系统软件的安装（图形界面）.md)
 
-3. Clone the project from GitHub.
+- ##### [OpenCV](GPU_server/opencv.md)
 
-```sh
-git clone https://github.com/BYR-Navi/BYR-Navi.git
-```
 
-4. Change into the project directory.
 
-```sh
-cd BYR-Navi
-```
+### 编程相关
 
-5. Install required gems in the `Gemfile` using Bundler.
+- ##### [vs和fortran的兼容问题](programing/vs_ivf_compatibility.md)
 
-```sh
-bundle install
-```
+- ##### C/C++/Fortran混合编程
 
-6. Build the site and make it available on a local server.
+  - ##### 	 [命令行形式](programing/Mixed_FORTRAN_C_programing.md)
 
-```sh
-bundle exec jekyll serve
-```
+  - ##### 	[用VS和IVF](programing/Mixed_FORTRAN_C_programing(VS).md)
 
-7. Now browse to [http://localhost:4000][localhost-4000].
+- ##### 静态库和动态库
 
-## :construction: Deployment
+  - ##### [由C语言生成库](programing/C_build_lib_dll.md)
+  - ##### [由Fortran生成](programing/Fortran_build_library.md)
 
-### GitHub Pages (Recommended)
-Sites on GitHub Pages are powered by Jekyll behind the scenes, so if you&rsquo;re looking for a zero-hassle, zero-cost solution, GitHub Pages are a great way to [host your Jekyll-powered website for free][jekyll-gihub-pages].
 
-### Manual Deployment
-Jekyll generates your static site to the `_site` directory by default. You can transfer the contents of this directory to almost any hosting provider to get your site live.
-[Here][jekyll-manual-deployment] are some manual ways of achieving this.
+- ##### [使用TetGen进行3D Delaunary网格划分](programing/TetGen_3D_Delaunary_mesh.md)
 
-## :hearts: Share the Love
-I&rsquo;ve put a lot of time and effort into making **BYR-Navi** awesome.
-If you love it, you can buy me a coffee.
-Every cup helps!
-I promise it will be a good investment.
+- ##### [计算几何笔记](programing/计算几何笔记.md)
 
-Donate [here][donate].
 
-## :rocket: Powered by
-- [Fomantic UI][fomantic]
-- [jQuery][jquery]
-- [Shields.io][shields]
-- [Day.js][day]
-- [CountUp.js][countup]
-- [jQuery.countdown][countdown]
-- [JavaScript Cookie][js-cookie]
-- [url.js][js-url]
-- [Hitokoto][hitokoto]
-- [ECharts][echarts]
-- [Matomo][matomo]
-- [GeoIP][geoip]
-- [Jekyll][jekyll]
-- [Let&rsquo;s Encrypt][letsencrypt]
-- [Linode][linode]
 
-## :copyright: License
-[MIT License][license]
 
-[travis-ci]: https://app.travis-ci.com/BYR-Navi/BYR-Navi "Travis CI"
-[website]: https://byr-navi.com/ "Website"
-[license]: https://github.com/BYR-Navi/BYR-Navi/blob/master/LICENSE "License"
-[commit]: https://github.com/BYR-Navi/BYR-Navi/commits/master "Last Commit"
-[donate]: https://byr-navi.com/donate/ "Donate"
+### 网络资源
 
-[fomantic]: https://fomantic-ui.com/ "Fomantic UI"
-[fomantic-doc]: https://fomantic-ui.com/introduction/getting-started.html "Fomantic UI Docs"
-[jquery]: https://jquery.com/ "jQuery"
-[shields]: https://shields.io/ "Shields.io"
-[day]: https://github.com/iamkun/dayjs "Day.js"
-[countup]: https://inorganik.github.io/countUp.js/ "CountUp.js"
-[countdown]: https://hilios.github.io/jQuery.countdown/ "The Final Countdown plugin for jQuery"
-[js-cookie]: https://github.com/js-cookie/js-cookie "JavaScript Cookie"
-[js-url]: https://github.com/websanova/js-url "url.js"
-[hitokoto]: https://hitokoto.cn/api "Hitokoto"
-[echarts]: https://echarts.apache.org/ "ECharts"
-[matomo]: https://matomo.org/ "Matomo"
-[geoip]: https://www.maxmind.com/ "GeoIP"
-[jekyll]: https://jekyllrb.com/ "Jekyll"
-[jekyll-doc]: https://jekyllrb.com/docs/home/ "Jekyll Docs"
-[jekyll-installation]: https://jekyllrb.com/docs/installation/ "Jekyll Installation"
-[jekyll-gihub-pages]: https://jekyllrb.com/docs/github-pages/ "Jekyll GitHub Pages"
-[jekyll-manual-deployment]: https://jekyllrb.com/docs/deployment/manual/ "Jekyll Manual Deployment"
-[jekyll-ruby-101-gems]: https://jekyllrb.com/docs/ruby-101/#gems "Jekyll Ruby 101 Gems"
-[jekyll-ruby-101-bundler]: https://jekyllrb.com/docs/ruby-101/#bundler "Jekyll Ruby 101 Bundler"
-[localhost-4000]: http://localhost:4000 "Local Host (Port: 4000)"
-[github-pages]: https://pages.github.com/ "GitHub Pages"
-[letsencrypt]: https://letsencrypt.org/ "Let&rsquo;s Encrypt"
-[linode]: https://www.linode.com/ "Linode"
+- [Linux 命令大全 | 菜鸟教程 (runoob.com)](https://www.runoob.com/linux/linux-command-manual.html)
+
+- [鳥哥的 Linux 私房菜](http://linux.vbird.org/)linux的操作都有，很全！！！
+
+- [鳥哥的 Linux 私房菜 -- 基礎學習篇](http://linux.vbird.org/linux_basic/)
+
+- [FORTRAN & MATLAB 混合编程](https://www.cnblogs.com/momoko/p/6148013.html)
+
