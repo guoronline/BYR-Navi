@@ -3,23 +3,22 @@
     links:
     - name: 寰宇新聞
       style: basic
-      url: https://www.youtube.com/watch?v=6IquAgfvYmc
-
-    - name: TVBS国际+
+      url: https://www.youtube.com/@globalnewstw
+      
+    - name: TVBS NEWS
       style: basic
-      url: https://www.youtube.com/watch?v=hP6_jfCFxyQ
+      url: https://www.youtube.com/@TVBSNEWS01
 
-    - name: TVBS選新聞
+    - name: FOCUS全球新聞
       style: basic
-      url: https://www.youtube.com/watch?v=1h4MxL8_bXk
+      url: http://www.youtube.com/@tvbsfocus
 
-    - name: 東森新聞
+    - name: 東森新聞 CH51
       style: basic
-      url: https://www.youtube.com/watch?v=B7Zp3d6xXWw
-
+      url: https://www.youtube.com/@newsebc
     - name: 中天新聞
       style: basic
-      url: https://www.youtube.com/watch?v=_QbRXRnHMVY
+      url: https://www.youtube.com/@中天新聞CtiNews
 
     - name: 聞大白話 TVBS 56台
       style: basic
