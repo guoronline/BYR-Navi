@@ -26,7 +26,7 @@
       
     - name: 凤凰卫视
       style: basic
-      url: https://www.youtube.com/watch?v=PNtdyKgGf3M
+      url: https://www.youtube.com/@phoenixtvhk
       
     - name: 凤凰中文
       style: basic
@@ -57,7 +57,7 @@
 
     - name: FRANCE 24
       style: basic
-      url: https://www.youtube.com/watch?v=h3MuIUNCCzI
+      url: https://www.youtube.com/@France24_en
 
     - name: WION
       style: basic
