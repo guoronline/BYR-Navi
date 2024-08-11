@@ -96,7 +96,19 @@
       style: basic
       url: https://www.youtube.com/@bbcnewschinese
 
- 
+     - name: 各国网址大全
+      style: basic
+      url: https://www.world68.com/
+      
+    - name: CC直播吧
+      style: basic
+      url: http://www.zhiboba.me/
+      
+    - name: 直播网
+      style: basic
+      url: http://www.lshitv.com/
+
+
   - name: 全球直播
     links:
     - name: 观察者俱乐部
