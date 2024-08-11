@@ -128,7 +128,7 @@
       style: basic
       url: https://cnnews.chosun.com/
       
-  - name: 全球新闻
+  - name: 综合直播网站
     links:
       
     - name: tiktok
@@ -165,11 +165,26 @@
     - name: earthTV
       style: basic
       url: https://www.youtube.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ
-
-    - name: 鏡新聞
+      
+    - name: EarthCam
       style: basic
-      url: https://www.youtube.com/watch?v=5n0y6b0Q25o
+      url: https://www.youtube.com/@earthcam
+      
+    - name: Visit Leavenworth
+      style: basic
+      url: https://www.youtube.com/@VisitLeavenworthwa
+      
+    - name: NewsCenter1
+      style: basic
+      url: https://www.youtube.com/@NewsCenter1
+      
+    - name: 时代广场
+      style: basic
+      url: https://www.youtube.com/@AESignage
 
+    - name: 布莱恩特公园纽约
+      style: basic
+      url: https://www.youtube.com/@BryantParkNYC
 - categories:
   - name: 购物
     links:
