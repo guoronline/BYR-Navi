@@ -27,7 +27,23 @@
     - name: 凤凰卫视
       style: basic
       url: https://www.youtube.com/@phoenixtvhk
+       
+    - name: SinoVision 美国中文电视
+      style: basic
+      url: https://www.youtube.com/@Sinovisionofficial
       
+    - name: CHANNEL33 新西兰中文电视台
+      style: basic
+      url: https://www.youtube.com/@CHANNEL33NewZealand
+       
+    - name: ABC中文 澳大利亚
+      style: basic
+      url: https://www.youtube.com/@ABCChinese
+     
+    - name: 澳洲中文电视台 AUCNTV
+      style: basic
+      url: https://www.youtube.com/@AutraveltvCN
+     
     - name: 經緯點評
       style: basic
       url: https://www.youtube.com/@經緯點評
@@ -153,20 +169,28 @@
     - name: 观察者俱乐部
       style: basic
       url: https://www.youtube.com/channel/UCSkaixM5p8mYuBIdy2J0ZHw
+      
+    - name: ptztv
+      style: basic
+      url: https://www.ptztv.com/
 
     - name: Teleport.camera
       style: basic
       url: https://www.youtube.com/channel/UCegzBUd6-PYoO_v7gjJgufg
+      
+    - name: SkylineWebcams 综合
+      style: basic
+      url: https://www.youtube.com/@SkylineWebcams
 
     - name: BIG JET TV
       style: basic
       url: https://www.youtube.com/channel/UCkQef3Fidr7tm3gNuXgGKPw
 
-    - name: earthTV
+    - name: earthTV 综合
       style: basic
       url: https://www.youtube.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ
       
-    - name: EarthCam
+    - name: EarthCam 综合
       style: basic
       url: https://www.youtube.com/@earthcam
       
@@ -174,10 +198,54 @@
       style: basic
       url: https://www.youtube.com/@VisitLeavenworthwa
       
-    - name: NewsCenter1
+    - name: NewsCenter1 综合
       style: basic
       url: https://www.youtube.com/@NewsCenter1
       
+    - name: CAM 大全
+      style: basic
+      url: https://dlhd.so/
+      
+    - name: Webcamtaxi 综合
+      style: basic
+      url: https://www.webcamtaxi.com/
+       
+    - name: Webcams 俄罗斯
+      style: basic
+      url: https://www.youtube.com/@msbud2
+      
+    - name: 芭提雅Phuketsam
+      style: basic
+      url: https://www.youtube.com/@Phuketsam/featured
+      
+    - name: 费拉特尔 – 通往世界的窗口
+      style: basic
+      url: https://www.youtube.com/@feratel_yourwindowtotheworld
+       
+    - name: WEBCAM 尼泊尔
+      style: basic
+      url: https://www.youtube.com/@WEBCAMNEPAL
+    
+    - name: I Love You Venice
+      style: basic
+      url: https://www.youtube.com/@ILoveYouVenice
+      
+    - name: Armchair Traveler
+      style: basic
+      url: https://www.youtube.com/@armchairtravel
+      
+    - name: livecams
+      style: basic
+      url: https://explore.org/livecams
+       
+    - name: Levikj北极光
+      style: basic
+      url: https://www.youtube.com/@Levikj
+     
+    - name: 菲律宾Street Souls
+      style: basic
+      url: https://www.youtube.com/@Street_Souls
+    
     - name: 时代广场
       style: basic
       url: https://www.youtube.com/@AESignage
@@ -185,6 +253,60 @@
     - name: 布莱恩特公园纽约
       style: basic
       url: https://www.youtube.com/@BryantParkNYC
+      
+    - name: TBN Israel
+      style: basic
+      url: https://www.youtube.com/@TBNIsrael
+      
+    - name: 列维滑雪胜地
+      style: basic
+      url: https://www.youtube.com/@LeviSkiResort
+      
+    - name: ART VISION TV
+      style: basic
+      url: https://www.youtube.com/@ARTVISIONTV
+      
+    - name: Swimwear & Underwear
+      style: basic
+      url: https://www.youtube.com/@SwimwearUnderwear/
+      
+    - name: MIAMI VISUALS
+      style: basic
+      url: https://www.youtube.com/@305miamivisuals
+      
+    - name: FASHION STYLE TV
+      style: basic
+      url: https://www.youtube.com/@FASHIONSTYLETV
+      
+    - name: Films_LA
+      style: basic
+      url: https://www.youtube.com/@FilmsLA
+      
+    - name: Yvan Creates
+      style: basic
+      url: https://www.youtube.com/@yvancreates/streams
+      
+    - name: NamibiaCam
+      style: basic
+      url: https://www.youtube.com/@NamibiaCam
+       
+    - name: 非洲
+      style: basic
+      url: https://www.youtube.com/@Africamvideos
+      
+    - name: 探索非洲
+      style: basic
+      url: https://www.youtube.com/@ExploreAfrica
+       
+    - name: 观鸟
+      style: basic
+      url: https://www.youtube.com/@BirdWatchingHQ
+      
+    - name: Explore Live Nature Cam
+      style: basic
+      url: https://www.youtube.com/@ExploreLiveNatureCams
+
+      
 - categories:
   - name: 购物
     links:
