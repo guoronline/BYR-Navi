@@ -95,6 +95,45 @@
     - name: BBC News 中文
       style: basic
       url: https://www.youtube.com/@bbcnewschinese
+      
+    - name: 美国之音中文
+      style: basic
+      url: https://www.youtube.com/@voachinese
+      
+    - name: 今日華爾街
+      style: basic
+      url: https://www.youtube.com/c/今日華爾街
+      
+    - name: 半岛中文新闻
+      style: basic
+      url: https://chinese.aljazeera.net/
+      
+    - name: 纽约时报
+      style: basic
+      url: https://www.nytimes.com/
+      
+    - name: TIME
+      style: basic
+      url: https://time.com/
+      
+    - name: 今日美国
+      style: basic
+      url: https://www.usatoday.com/
+      
+    - name: 俄罗斯卫星通讯社
+      style: basic
+      url: https://sputniknews.cn/
+      
+    - name: 朝鲜日报
+      style: basic
+      url: https://cnnews.chosun.com/
+      
+  - name: 全球新闻
+    links:
+      
+    - name: tiktok
+      style: basic
+      url: https://www.tiktok.com/
 
      - name: 各国网址大全
       style: basic
