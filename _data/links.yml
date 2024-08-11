@@ -22,38 +22,57 @@
 
     - name: 聞大白話 TVBS 56台
       style: basic
-      url: https://www.youtube.com/watch?v=ybSl1x9ufis
+      url: https://www.youtube.com/@tvbstalk
       
     - name: 凤凰卫视
       style: basic
       url: https://www.youtube.com/@phoenixtvhk
       
-    - name: 凤凰中文
+    - name: 經緯點評
       style: basic
-      url: https://www.youtube.com/watch?v=kk12tpAlGTI
-
+      url: https://www.youtube.com/@經緯點評
       
-  - name: 英文新闻
-    links:
-    - name: NBC News
+    - name: 民視新聞網
       style: basic
-      url: https://www.youtube.com/watch?v=VnKIzr4eFUM
+      url: https://www.youtube.com/@FTV_News
+      
+    - name: 在线电视网站okteve
+      style: basic
+      url: https://okteve.com/
+      
+  - name: 英文新闻直播
+    links:
+    - name: LiveNOW from FOX
+      style: basic
+      url: https://www.youtube.com/@livenowfox
 
     - name: Sky News
       style: basic
-      url: https://www.youtube.com/watch?v=9Auq9mYxFEE
+      url: https://www.youtube.com/@SkyNews
+      
+    - name: CNN
+      style: basic
+      url: https://www.youtube.com/@cnn
 
     - name: ABC News
       style: basic
-      url: https://www.youtube.com/watch?v=w_Ma8oQLmSM
+      url: https://www.youtube.com/@ABCNews
 
     - name: DW News
       style: basic
-      url: https://www.youtube.com/watch?v=GE_SfNVNyqk
+      url: https://www.youtube.com/@dwnews
+
+    - name: euronews
+      style: basic
+      url: https://www.youtube.com/@euronews
 
     - name: 半岛 News
       style: basic
-      url: https://www.youtube.com/watch?v=F-POY4Q0QSI
+      url: https://www.aljazeera.com/live
+
+    - name: CNA
+      style: basic
+      url: https://www.youtube.com/@channelnewsasia
 
     - name: FRANCE 24
       style: basic
@@ -66,6 +85,16 @@
     - name: RT
       style: basic
       url: https://www.rt.com/on-air/
+
+    - name: fashiontv
+      style: basic
+      url: https://www.fashiontv.com/
+      
+  - name: 全球新闻
+    links:
+    - name: BBC News 中文
+      style: basic
+      url: https://www.youtube.com/@bbcnewschinese
 
  
   - name: 全球直播
