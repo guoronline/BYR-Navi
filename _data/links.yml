@@ -22,289 +22,85 @@
 
     - name: 聞大白話 TVBS 56台
       style: basic
-      url: https://www.youtube.com/@tvbstalk
+      url: https://www.youtube.com/watch?v=ybSl1x9ufis
       
     - name: 凤凰卫视
       style: basic
       url: https://www.youtube.com/@phoenixtvhk
-       
-    - name: SinoVision 美国中文电视
-      style: basic
-      url: https://www.youtube.com/@Sinovisionofficial
       
-    - name: CHANNEL33 新西兰中文电视台
+    - name: 凤凰中文
       style: basic
-      url: https://www.youtube.com/@CHANNEL33NewZealand
-       
-    - name: ABC中文 澳大利亚
-      style: basic
-      url: https://www.youtube.com/@ABCChinese
-     
-    - name: 澳洲中文电视台 AUCNTV
-      style: basic
-      url: https://www.youtube.com/@AutraveltvCN
-     
-    - name: 經緯點評
-      style: basic
-      url: https://www.youtube.com/@經緯點評
-      
-    - name: 民視新聞網
-      style: basic
-      url: https://www.youtube.com/@FTV_News
-      
-    - name: 在线电视网站okteve
-      style: basic
-      url: https://okteve.com/
-      
-  - name: 英文新闻直播
-    links:
-    - name: LiveNOW from FOX
-      style: basic
-      url: https://www.youtube.com/@livenowfox
+      url: https://www.youtube.com/watch?v=kk12tpAlGTI
 
+  - name: 英文新闻
+    links:
+    - name: NBC News
+      style: basic
+      url: https://www.youtube.com/watch?v=VnKIzr4eFUM
+  
     - name: Sky News
       style: basic
-      url: https://www.youtube.com/@SkyNews
-      
-    - name: CNN
-      style: basic
-      url: https://www.youtube.com/@cnn
-
+      url: https://www.youtube.com/watch?v=9Auq9mYxFEE
+  
     - name: ABC News
       style: basic
-      url: https://www.youtube.com/@ABCNews
-
+      url: https://www.youtube.com/watch?v=w_Ma8oQLmSM
+  
     - name: DW News
       style: basic
-      url: https://www.youtube.com/@dwnews
-
-    - name: euronews
-      style: basic
-      url: https://www.youtube.com/@euronews
-
+      url: https://www.youtube.com/watch?v=GE_SfNVNyqk
+  
     - name: 半岛 News
       style: basic
-      url: https://www.aljazeera.com/live
-
-    - name: CNA
-      style: basic
-      url: https://www.youtube.com/@channelnewsasia
-
+      url: https://www.youtube.com/watch?v=F-POY4Q0QSI
+  
     - name: FRANCE 24
       style: basic
       url: https://www.youtube.com/@France24_en
-
+  
     - name: WION
       style: basic
       url: https://www.youtube.com/watch?v=yjJ3Ygc0u2Q
-
+  
     - name: RT
       style: basic
       url: https://www.rt.com/on-air/
+  
+    - name: 鏡新聞
+      style: basic
+      url: https://www.youtube.com/watch?v=5n0y6b0Q25o
+  
+  
+    - name: 全球直播
+      links:
+      - name: 观察者俱乐部
+        style: basic
+        url: https://www.youtube.com/channel/UCSkaixM5p8mYuBIdy2J0ZHw
+  
+      - name: Teleport.camera
+        style: basic
+        url: https://www.youtube.com/channel/UCegzBUd6-PYoO_v7gjJgufg
+  
+      - name: BIG JET TV
+        style: basic
+        url: https://www.youtube.com/channel/UCkQef3Fidr7tm3gNuXgGKPw
+  
+      - name: earthTV
+        style: basic
+        url: https://www.youtube.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ
+  
+      - name: Scenic Travel
+        style: basic
+        url: https://www.youtube.com/channel/UCD6I7Q3sn8uM0ymyWbh4ZFg
+  
+      - name:Dream Música
+        style: basic
+        url: https://www.youtube.com/channel/UCpLow10iz3-cofN_570bwPQ
+  
+      - name: Relaxing The Soul
+        style: basic
+        url: https://www.youtube.com/channel/UCeQ36XnfY6XqBS_TktzufgA
 
-    - name: fashiontv
-      style: basic
-      url: https://www.fashiontv.com/
-      
-  - name: 全球新闻
-    links:
-    - name: BBC News 中文
-      style: basic
-      url: https://www.youtube.com/@bbcnewschinese
-      
-    - name: 美国之音中文
-      style: basic
-      url: https://www.youtube.com/@voachinese
-      
-    - name: 今日華爾街
-      style: basic
-      url: https://www.youtube.com/c/今日華爾街
-      
-    - name: 半岛中文新闻
-      style: basic
-      url: https://chinese.aljazeera.net/
-      
-    - name: 纽约时报
-      style: basic
-      url: https://www.nytimes.com/
-      
-    - name: TIME
-      style: basic
-      url: https://time.com/
-      
-    - name: 今日美国
-      style: basic
-      url: https://www.usatoday.com/
-      
-    - name: 俄罗斯卫星通讯社
-      style: basic
-      url: https://sputniknews.cn/
-      
-    - name: 朝鲜日报
-      style: basic
-      url: https://cnnews.chosun.com/
-      
-  - name: 综合直播网站
-    links:
-    - name: tiktok
-      style: basic
-      url: https://www.tiktok.com/
-
-     - name: 各国网址大全
-      style: basic
-      url: https://www.world68.com/
-      
-    - name: CC直播吧
-      style: basic
-      url: http://www.zhiboba.me/
-      
-    - name: 直播网
-      style: basic
-      url: http://www.lshitv.com/
-
-  - name: 全球直播
-    links:
-    - name: 观察者俱乐部
-      style: basic
-      url: https://www.youtube.com/channel/UCSkaixM5p8mYuBIdy2J0ZHw
-      
-    - name: ptztv
-      style: basic
-      url: https://www.ptztv.com/
-
-    - name: Teleport.camera
-      style: basic
-      url: https://www.youtube.com/channel/UCegzBUd6-PYoO_v7gjJgufg
-      
-    - name: SkylineWebcams 综合
-      style: basic
-      url: https://www.youtube.com/@SkylineWebcams
-
-    - name: BIG JET TV
-      style: basic
-      url: https://www.youtube.com/channel/UCkQef3Fidr7tm3gNuXgGKPw
-
-    - name: earthTV 综合
-      style: basic
-      url: https://www.youtube.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ
-      
-    - name: EarthCam 综合
-      style: basic
-      url: https://www.youtube.com/@earthcam
-      
-    - name: Visit Leavenworth
-      style: basic
-      url: https://www.youtube.com/@VisitLeavenworthwa
-      
-    - name: NewsCenter1 综合
-      style: basic
-      url: https://www.youtube.com/@NewsCenter1
-      
-    - name: CAM 大全
-      style: basic
-      url: https://dlhd.so/
-      
-    - name: Webcamtaxi 综合
-      style: basic
-      url: https://www.webcamtaxi.com/
-       
-    - name: Webcams 俄罗斯
-      style: basic
-      url: https://www.youtube.com/@msbud2
-      
-    - name: 芭提雅Phuketsam
-      style: basic
-      url: https://www.youtube.com/@Phuketsam/featured
-      
-    - name: 费拉特尔 – 通往世界的窗口
-      style: basic
-      url: https://www.youtube.com/@feratel_yourwindowtotheworld
-       
-    - name: WEBCAM 尼泊尔
-      style: basic
-      url: https://www.youtube.com/@WEBCAMNEPAL
-    
-    - name: I Love You Venice
-      style: basic
-      url: https://www.youtube.com/@ILoveYouVenice
-      
-    - name: Armchair Traveler
-      style: basic
-      url: https://www.youtube.com/@armchairtravel
-      
-    - name: livecams
-      style: basic
-      url: https://explore.org/livecams
-       
-    - name: Levikj北极光
-      style: basic
-      url: https://www.youtube.com/@Levikj
-     
-    - name: 菲律宾Street Souls
-      style: basic
-      url: https://www.youtube.com/@Street_Souls
-    
-    - name: 时代广场
-      style: basic
-      url: https://www.youtube.com/@AESignage
-
-    - name: 布莱恩特公园纽约
-      style: basic
-      url: https://www.youtube.com/@BryantParkNYC
-      
-    - name: TBN Israel
-      style: basic
-      url: https://www.youtube.com/@TBNIsrael
-      
-    - name: 列维滑雪胜地
-      style: basic
-      url: https://www.youtube.com/@LeviSkiResort
-      
-    - name: ART VISION TV
-      style: basic
-      url: https://www.youtube.com/@ARTVISIONTV
-      
-    - name: Swimwear & Underwear
-      style: basic
-      url: https://www.youtube.com/@SwimwearUnderwear/
-      
-    - name: MIAMI VISUALS
-      style: basic
-      url: https://www.youtube.com/@305miamivisuals
-      
-    - name: FASHION STYLE TV
-      style: basic
-      url: https://www.youtube.com/@FASHIONSTYLETV
-      
-    - name: Films_LA
-      style: basic
-      url: https://www.youtube.com/@FilmsLA
-      
-    - name: Yvan Creates
-      style: basic
-      url: https://www.youtube.com/@yvancreates/streams
-      
-    - name: NamibiaCam
-      style: basic
-      url: https://www.youtube.com/@NamibiaCam
-       
-    - name: 非洲
-      style: basic
-      url: https://www.youtube.com/@Africamvideos
-      
-    - name: 探索非洲
-      style: basic
-      url: https://www.youtube.com/@ExploreAfrica
-       
-    - name: 观鸟
-      style: basic
-      url: https://www.youtube.com/@BirdWatchingHQ
-      
-    - name: Explore Live Nature Cam
-      style: basic
-      url: https://www.youtube.com/@ExploreLiveNatureCams
-
-      
 - categories:
   - name: 购物
     links:
@@ -427,71 +223,71 @@
       style: basic
       url: https://www.tianyancha.com/
 
-    # - name: 稿定设计
-    #   style: basic
-    #   url: https://www.gaoding.com/
-
-    # - name: MacWk
-    #   style: basic
-    #   url: https://macwk.com/
-
+    - name: 稿定设计
+      style: basic
+      url: https://www.gaoding.com/
+    
+    - name: MacWk
+      style: basic
+      url: https://macwk.com/
+    
   - name: 社交
     links:
     - name: 微博
       icon: weibo red
       style: basic
       url: https://weibo.com/
-
+  
     - name: 微信网页版
       icon: weixin green
       style: basic
       url: https://wx.qq.com/
-
+  
     - name: 百度贴吧
       icon: paw blue
       style: basic
       url: https://tieba.baidu.com/
-
+  
     - name: 知乎
       icon: zhihu blue
       style: basic
       url: https://www.zhihu.com/
-
+  
     - name: Quora
       icon: quora red
       style: basic
       url: https://www.quora.com/
-
+  
     - name: Facebook
       icon: facebook f blue
       style: basic
       url: https://www.facebook.com/
-
+  
     - name: Google+
       icon: google plus g red
       style: basic
       url: https://plus.google.com/
-
+  
     - name: Tumblr
       icon: tumblr blue
       style: basic
       url: https://www.tumblr.com/
-
+  
     - name: Instagram
       icon: instagram pink
       style: basic
       url: https://www.instagram.com/
-
+  
     - name: GitHub
       icon: github black
       style: basic
       url: https://github.com/
-
+  
     - name: LinkedIn
       icon: linkedin blue
       style: basic
       url: https://www.linkedin.com/
-
+  
   - name: 学习
     links:
     - name: Coursera
@@ -509,7 +305,7 @@
     - name: W3School
       style: basic
       url: https://www.w3school.com.cn/
-
+  
     - name: Stack Overflow
       icon: stack overflow orange
       style: basic
@@ -522,7 +318,7 @@
     - name: Tutorials Point
       style: basic
       url: https://www.tutorialspoint.com/
-
+  
     - name: Google Open Source
       icon: code blue
       style: basic
@@ -543,7 +339,7 @@
     - name: 云英语
       style: black
       url: https://www.y-english.org/
-
+  
   - name: 娱乐
     links:
     - name: Youtube
@@ -582,7 +378,7 @@
     - name: 腾讯动漫
       style: basic
       url: https://ac.qq.com/
-
+  
     - name: 豆瓣电影
       icon: film blue
       style: basic
@@ -590,8 +386,8 @@
 
     - name: FIX
       style: yellow
-      url: https://www.zimuxia.cn/
-
+      url: https://www.zimuxia.cn/%e6%88%91%e4%bb%ac%e7%9a%84%e4%bd%9c%e5%93%81
+  
     - name: FIX
       icon: file excel green
       style: basic
@@ -620,9 +416,8 @@
     - name: 幻樱
       style: pink
       url: http://www.hysub.net/
-
+  
     - name: 斗鱼
       style: orange
       url: https://douyu.com/
-
 
