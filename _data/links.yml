@@ -146,7 +146,6 @@
       
   - name: 综合直播网站
     links:
-      
     - name: tiktok
       style: basic
       url: https://www.tiktok.com/
@@ -162,7 +161,6 @@
     - name: 直播网
       style: basic
       url: http://www.lshitv.com/
-
 
   - name: 全球直播
     links:
@@ -592,7 +590,7 @@
 
     - name: FIX
       style: yellow
-      url: https://www.zimuxia.cn/%e6%88%91%e4%bb%ac%e7%9a%84%e4%bd%9c%e5%93%81
+      url: https://www.zimuxia.cn/
 
     - name: FIX
       icon: file excel green
